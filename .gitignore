@@ -32,16 +32,5 @@ jspm_packages
 *.iml
 out
 gen
-.gitignore
-.idea/compiler.xml
-.idea/copyright/
-.idea/jsLibraryMappings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-clefairy.iml
-index.html
-js/
 new/
 origin/
-som.mp3
